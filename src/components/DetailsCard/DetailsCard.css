@@ -1,0 +1,28 @@
+
+
+.escalate-btn{
+    color: #ffffff;
+    background-color:#D74848;
+    border-style: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 6px;
+}
+
+.details-card-container{
+    gap: 5px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.details-text-icon-container{
+    gap: 5px;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

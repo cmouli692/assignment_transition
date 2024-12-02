@@ -1,0 +1,38 @@
+.sidebar-container{
+    background-color:  #0D1424;
+    width: 20%;
+    color: #ffffff;
+    height: 70%;
+    
+}
+
+.sidebar-logo-container{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.react-icon-container{
+    width: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.side-bar-nav-elements-container{
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.react-icons{
+    color: #ffffff;
+}
+.header{
+    color: #ffffff;
+    margin: 0px;
+}

@@ -1,0 +1,121 @@
+
+.add-agent-btn-and-add-new-widget-btn-container{
+    margin-top: 10px;
+}
+
+.add-new-widget-btn{
+    margin-top: 10px;
+    width: 100%;
+    background-color: #ffffff;
+    color:  #0F8BFD;
+    border-radius: 6px;
+    border-style: dashed;
+    border-color: #0F8BFD;
+
+}
+
+.profile-name-icon-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    height: 55px;
+    width: 55px;
+    border-radius: 25px;
+    background-color:  #EEF0F5;
+    margin-right: 10px;
+    
+}
+
+.assign-other-agent{
+    color: #ffffff;
+}
+
+.add-agent-btn{
+    border-radius: 6px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #0F8BFD;
+    gap: 10px;
+    border-style: none;
+    
+}
+
+.add-button-container{
+    width: 100%;
+    background-color:  #4C62921A;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.customer-details-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon-percent-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.customer-details-card-container{
+    /* flex-wrap: nowrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; */
+    margin-top: 10px;
+    background-color: #EEF0F5;
+    border-radius: 6px;
+    padding: 15px;
+}
+
+.map-maker-icon-container{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: flex-start;
+
+}
+
+.profile-shortcut-name{
+    /* text-align: center; */
+}
+
+.location-icon-and-address-text-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.profile-card-container{
+    border-radius: 6px;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.profile-name-and-location{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    width: 300px;
+    border-radius: 6px;
+
+}

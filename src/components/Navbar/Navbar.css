@@ -1,0 +1,74 @@
+.navbar-container{
+    background-color: #ffffff;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    position:relative;
+}
+
+.nav-elements-container{
+    gap: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.sign-out-img-logout-text-container{
+    width: 85px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.process-owner-hod-text-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    
+    background-color:  #FCCC55;
+    width: 160px;
+    border-radius: 8px;
+    
+    
+}
+
+.home-icon-process-owner-hod-container{
+    width: 210px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile-name-text{
+    color:  #8A8EA6;
+    
+}
+
+.admin-text-main-container{
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    width: 100px;
+    height: 30px;
+    background-color: #E553BC;
+    border-radius: 8px;
+}
+
+.admin-name-profile-pic-container{
+    width: 290px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}

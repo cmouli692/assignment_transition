@@ -1,0 +1,71 @@
+.name-cards-container{
+   
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: #ffffff; */
+  
+}
+
+.messaging-icon-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    background-color: #87CEFA;
+}
+
+.messaging-container-right-arrow{
+    color: #ffffff;
+}
+
+.messaging-text{
+    color: #ffffff;
+}
+
+.messaging-name-card-container{
+    background-color: #0F8BFD;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+   
+    border-radius: 6px;
+    
+}
+
+.name-short-cut-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+    border-radius: 30px;
+    height: 30px;
+    width: 30px;
+    background-color: #EEF0F5;
+    
+}
+
+.name-card-container{
+    width: 180px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 6px;
+}
+
+.name-icon{
+    border-radius: 55%;
+
+  background-color: grey;
+}
